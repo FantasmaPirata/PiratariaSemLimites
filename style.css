@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(43, 39, 255);
+}
+    
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 10;
+}
+
+.conteudos {
+    margin-left: 420px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.conteudos1 {
+    margin-left: 100px;
+    padding-left: 30px;
+
+    
+}
+
+.conteudos2 {
+    margin-left: 100px;
+    padding-left: 30px;
+
+    
+}
+
+.conteudos3 {
+    margin-left: 100px;
+    padding-left: 30px;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+a:hover {
+    color: rgb(0, 255, 21);
+    transition: 0.5s;
+}
+
+.destaques {
+    background-color: rgb(0, 97, 89);
+    width: 1585px;
+    height: 100px;
+}
+
+.texto {
+    font-size: 70px;
+    margin-left: 450px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.gta {
+    width: 400px;
+    height: 500px;
+}
+
+.gta:hover {
+    width: 350px;
+    height: 350px;
+}
+
+.jogos {
+    margin-left: 100px;
+}
+
+.jogoz {
+    padding-left: 30px;
+}
+
+.text {
+    color: #ffffff;
+}
+
